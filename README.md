@@ -109,13 +109,11 @@ Report it in the Issues section, and S1B34 will fix it faster than Nibble can ch
 ## Credits 🙌
 
 - Developed with ❤️ and humor by **S1B34**.
-- Inspired by a love for automation, good ASCII art, and nibbling through the web.
-
 ---
 
 ## License 📜
 
-**Nibble** is open-source and free to use. Just don’t use it for anything illegal, okay? S1B34 doesn’t want to see this on the news. 😉
+**Nibble** is open-source and free to use. Just don’t use it for anything illegal, okay?
 
 ---
 
